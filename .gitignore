@@ -1,0 +1,4 @@
+.vscode
+
+# hides a symlink to the Arduino libraries folder used for prototyping
+deploy
